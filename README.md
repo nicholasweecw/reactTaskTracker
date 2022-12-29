@@ -1,6 +1,6 @@
 # reactTaskTracker
 
-A simple task tracker that uses ReactJS.
+A simple task tracker built using ReactJS.
 Users are able to create tasks and delete them accordingly.
 They can also double click tasks to toggle reminders on or off.
 
